@@ -1,0 +1,3 @@
+[submodule "podcast_newsletter"]
+	path = podcast_newsletter
+	url = https://huggingface.co/spaces/bpHigh/podcast_newsletter
